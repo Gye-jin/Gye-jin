@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Gyejin%&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Gyejin-Github!%&fontSize=60)
 
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 
  ## Stack
- <div align=center> 
+ <div align=left> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 <br>
@@ -19,6 +19,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </div>
 
-<p align="center"> 
+<p align="right"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Gye-jin&theme=vue&show_icons=true"/></a>
 </p>

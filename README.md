@@ -6,8 +6,14 @@
 </p>
 
 
- ## Stack
- <div align=left> 
+
+
+
+  div {
+        width: 100%;
+        height: 300px;
+    }
+    div.left {
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 <br>
@@ -18,7 +24,7 @@
 <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </div>
-
-<p align="right"> 
+    }
+    div.right {
   <img src="https://github-readme-stats.vercel.app/api?username=Gye-jin&theme=vue&show_icons=true"/></a>
-</p>
+    }

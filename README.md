@@ -5,15 +5,6 @@
 🚀 도전하고 싶은 일에 대해 포기하지 않는 개발자가 되고 싶습니다.  👩‍🚀
 </p>
 
-
-
-
-
-  div {
-        width: 100%;
-        height: 300px;
-    }
-    div.left {
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 <br>
@@ -23,8 +14,5 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-</div>
-    }
-    div.right {
-  <img src="https://github-readme-stats.vercel.app/api?username=Gye-jin&theme=vue&show_icons=true"/></a>
-    }
+<img src="https://github-readme-stats.vercel.app/api?username=Gye-jin&theme=vue&show_icons=true"/></a>
+

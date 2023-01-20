@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Gyejin-Github!%&fontSize=60)
 
 <p align="center">
-🚀 도전하고 싶은 일에 대해 포기하지 않는 개발자가 되고 싶습니다.  👩‍🚀
+🚀 항상 끊임없이 공부하고 학습하면서 성장하는 개발자가 되겠습니다.  👩‍🚀
 </p>
 
 
